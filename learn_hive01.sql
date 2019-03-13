@@ -1,3 +1,4 @@
+-- 新建employees表
 create table if not exists hivesample.employees (
 name                string comment 'employee name',
 salary              float  comment 'employee salary',
